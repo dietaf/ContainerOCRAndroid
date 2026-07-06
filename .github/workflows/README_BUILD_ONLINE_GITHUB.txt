@@ -1,0 +1,1 @@
+Sube estos archivos a GitHub y ejecuta Actions > Build APK Online > Run workflow. Luego descarga el artifact ContainerOCR-debug-apk y dentro estará app-debug.apk.
